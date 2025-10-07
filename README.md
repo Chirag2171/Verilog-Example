@@ -1,1 +1,1 @@
-# Verilog-Example
+# Verilog-Example: Binary to Gray converter, 
