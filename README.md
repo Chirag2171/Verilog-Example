@@ -1,1 +1,1 @@
-# Verilog-Example:  Binary to Gray Conversion, 1_Bit Full_Adder using Half_Adder, 4_Bit Full_Adder using 1_Bit Full_Adder, Down Counter, up Counter, up_Down Counter
+# Verilog-Example:  Binary to Gray Conversion, 1_Bit Full_Adder using Half_Adder, 4_Bit Full_Adder using 1_Bit Full_Adder, Down Counter, up Counter, up_Down Counter, MUX_4_to_1, MUX_8_to_1, DEMUX_1_to_4, DEMUX_1_to_8,
